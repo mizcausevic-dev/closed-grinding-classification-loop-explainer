@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/closed-grinding-classification-loop-explainer/
 
+Repository: https://github.com/mizcausevic-dev/closed-grinding-classification-loop-explainer
+
 ## What this is
 
 An interactive anatomy plate for Closed Grinding–Classification Loop. Play, scrub, or jump the five stages. The same frame always draws the same picture.
